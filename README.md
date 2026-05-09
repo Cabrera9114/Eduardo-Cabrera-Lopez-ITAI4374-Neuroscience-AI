@@ -213,3 +213,30 @@ Projects and Activities:
 - Sensorimotor loop research
 - Vision-Language-Action model research
 - Physical AI pipeline exploration
+
+## Major Course Project – Bio-Inspired AI Audit
+
+Semester-long neuroscience-inspired audit of ChatGPT.
+
+Project included:
+- Midterm Pilot Audit
+- Final Comprehensive Audit
+- Brain vs AI Scorecard
+- Video Demonstration
+
+Neuroscience Topics Tested:
+- Attention systems
+- Memory
+- Perception
+- Predictive processing
+- Emotional reasoning
+- Goal-directed behavior
+- Neuro-symbolic reasoning
+- Embodied cognition
+
+Key Skills:
+- AI experimentation
+- Prompt engineering
+- Technical reporting
+- Comparative AI analysis
+- Neuroscience-inspired system evaluation
