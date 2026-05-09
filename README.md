@@ -26,3 +26,23 @@ Topics included:
 
 Lab:
 - Cortical Column Voting Simulation using Python
+
+### Module 03 – Brain Anatomy and Computational Neuroscience
+
+Topics included:
+- Brain anatomy and cortical regions
+- Neuron structure and signaling
+- Action potentials and spike behavior
+- Computational neuroscience
+- Leaky Integrate-and-Fire model
+- Neural coding
+- Biological vs artificial neural networks
+- Reinforcement learning and dopamine systems
+- Brain-inspired AI architectures
+- Wolfram neuroscience tools
+
+Projects and Activities:
+- Biological vs Artificial Neuron Analysis
+- Computational neuroscience simulations
+- Wolfram modeling exercises
+- Neuron behavior implementation notebook
