@@ -46,3 +46,45 @@ Projects and Activities:
 - Computational neuroscience simulations
 - Wolfram modeling exercises
 - Neuron behavior implementation notebook
+
+### Module 04 – Neurons & Spiking Neural Networks
+
+Topics included:
+- Spiking Neural Networks (SNNs)
+- Temporal neural computation
+- LIF neuron models
+- Rate and temporal coding
+- Surrogate gradients
+- Backpropagation Through Time
+- Neuromorphic computing
+- Intel Loihi 2
+- Event-driven AI systems
+- Energy-efficient AI hardware
+
+Projects and Activities:
+- Python-based LIF neuron simulations
+- Wolfram interactive spike dashboards
+- Neuromorphic computing research
+- Temporal neural coding experiments
+- Brain-inspired AI analysis
+
+### Module 05 – Sensory Processing and Perception
+
+Topics included:
+- Sensory systems and perception
+- Vision and auditory processing
+- CNN inspiration from neuroscience
+- Predictive processing
+- Event-based vision
+- Multimodal integration
+- Top-down modulation
+- Sensory integration
+- Consciousness theories
+- Brain-inspired AI perception systems
+
+Projects and Activities:
+- Sensory processing analysis
+- AI perception research
+- Predictive processing studies
+- Multimodal integration concepts
+- Perception and consciousness research
