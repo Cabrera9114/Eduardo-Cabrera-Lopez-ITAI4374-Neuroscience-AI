@@ -130,3 +130,24 @@ Projects and Activities:
 - Selective attention analysis
 - Consciousness theory exploration
 - Attention mechanism comparisons
+
+### Module 08 – Decision Making and Autonomous Systems
+
+Topics included:
+- Decision neuroscience
+- Reinforcement learning
+- Dopamine systems
+- Autonomous agents
+- AlphaGo
+- Monte Carlo Tree Search
+- System 1 vs System 2 reasoning
+- Cognitive biases
+- AI alignment and safety
+
+Projects and Activities:
+- Autonomous decision system analysis
+- Reinforcement learning architecture studies
+- AI reasoning system comparisons
+- Brain vs AI decision modeling
+- Decision threshold analysis
+- Autonomous agent architecture exploration
