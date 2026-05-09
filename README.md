@@ -151,3 +151,24 @@ Projects and Activities:
 - Brain vs AI decision modeling
 - Decision threshold analysis
 - Autonomous agent architecture exploration
+
+### Module 09 – World Models and Goal-Directed Behavior
+
+Topics included:
+- Predictive coding
+- Free Energy Principle
+- Active inference
+- World models
+- Model-based reinforcement learning
+- DreamerV3
+- MuZero
+- AlphaZero
+- Goal-directed behavior
+- Final Project preparation
+
+Projects and Activities:
+- Final project concept development
+- World model research
+- Brain vs AI simulation comparison
+- Model-based reinforcement learning analysis
+- Autonomous agent planning concepts
