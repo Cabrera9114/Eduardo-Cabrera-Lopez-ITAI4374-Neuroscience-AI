@@ -172,3 +172,22 @@ Projects and Activities:
 - Brain vs AI simulation comparison
 - Model-based reinforcement learning analysis
 - Autonomous agent planning concepts
+
+### Module 10 – Neuro-Symbolic AI & Architectures
+
+Topics included:
+- Neural vs symbolic intelligence
+- Explainable AI
+- System 1 and System 2 thinking
+- Knowledge graphs
+- Global Workspace Theory
+- Neuro-symbolic integration
+- AGI research
+- Hybrid AI systems
+
+Projects and Activities:
+- Neuro-symbolic AI analysis
+- Hybrid AI architecture research
+- Neural vs symbolic comparison
+- AI reasoning system evaluation
+- AGI architecture exploration
