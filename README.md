@@ -88,3 +88,45 @@ Projects and Activities:
 - Predictive processing studies
 - Multimodal integration concepts
 - Perception and consciousness research
+
+### Module 06 – Memory, Learning, and AI Architectures
+
+Topics included:
+- Biological memory systems
+- Hippocampal learning
+- Episodic and semantic memory
+- Procedural learning
+- Reinforcement learning
+- Experience replay
+- Memory consolidation
+- RAG systems
+- Transformer memory
+- Neuroscience-inspired AI architectures
+
+Projects and Activities:
+- Memory systems analysis
+- AI architecture comparisons
+- Reinforcement learning concepts
+- Hippocampal replay research
+- Semantic memory studies
+- AI memory architecture exploration
+
+### Module 07 – Attention and Consciousness in AI
+
+Topics included:
+- Biological attention systems
+- Transformer attention
+- Self-attention
+- Multi-head attention
+- Consciousness theories
+- Attention bottlenecks
+- ADHD and hemispatial neglect
+- AI safety and awareness
+
+Projects and Activities:
+- AI attention experiments
+- Transformer attention visualization
+- Brain vs AI auditing
+- Selective attention analysis
+- Consciousness theory exploration
+- Attention mechanism comparisons
