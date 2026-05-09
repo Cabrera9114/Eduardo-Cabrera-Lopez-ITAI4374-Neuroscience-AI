@@ -191,3 +191,25 @@ Projects and Activities:
 - Neural vs symbolic comparison
 - AI reasoning system evaluation
 - AGI architecture exploration
+
+### Module 11 – Embodied Cognition and Robotics
+
+Topics included:
+- Embodied cognition
+- Predictive motor control
+- Proprioception
+- Mirror neurons
+- Imitation learning
+- Sim-to-real robotics
+- Neuromorphic control
+- Soft robotics
+- Foundation models for robotics
+- Physical AI systems
+
+Projects and Activities:
+- Embodied AI analysis
+- Robotics architecture exploration
+- Predictive control analysis
+- Sensorimotor loop research
+- Vision-Language-Action model research
+- Physical AI pipeline exploration
